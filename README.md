@@ -1,4 +1,4 @@
-# FranceVisualization_d3.js
+# Demographic analysis of France with the d3.js framework
 
 <p align="center">
   <img src="demo.gif" />
