@@ -1,0 +1,18 @@
+.map_tooltip {
+    position: absolute;
+    background-color: #e0e0e0;
+    opacity: 0;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+    padding: 5px;
+}
+
+
+.legend_subtitle {
+    font-size: 13;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
